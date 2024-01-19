@@ -1,0 +1,60 @@
+a
+{
+	color:#000;
+	text-decoration:none;
+}
+body
+{
+	font-family:Calibri,Verdana,Geneva, sans-serif;
+	margin-top:50px;
+}
+#edsyardim,#eogrenme,#moodleyardim,
+#xerteyardim,#xerteogrenme,#onport,
+#sorubank,#proje,#kurallar
+{
+	width:742px;
+    font-size: 16px;
+    padding: 10px;
+    background-color: #fff;
+    color:#000;
+    border: solid 1px #000000;
+    margin:0;
+}
+.duyuruac
+{
+	width:742px;
+    font-size: 16px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    color:#000;
+    border: solid 1px #000000;
+    margin:0;
+}
+ 
+#edsyardim {
+    display: none;
+}
+#eogrenme {
+    display: none;
+}
+#moodleyardim {
+    display: none;
+}
+#xerteyardim {
+    display: none;
+}
+#xerteogrenme {
+    display: none;
+}
+#onport {
+    display: none;
+}
+#sorubank {
+    display: none;
+}
+#proje {
+    display: none;
+}
+#kurallar {
+    display: none;
+}

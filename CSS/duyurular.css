@@ -1,0 +1,50 @@
+a
+{
+	color:#000;
+	text-decoration:none;
+}
+body
+{
+	font-family:Calibri,Verdana,Geneva, sans-serif;
+	margin-top:50px;
+}
+#duyuru1 ,#duyuru2,#duyuru3,#duyuru4,#duyuru5
+{
+	width:742px;
+    font-size: 16px;
+    padding: 10px;
+    background-color: #fff;
+    color:#000;
+    border: solid 1px #000000;
+    margin:0;
+}
+.duyuruac
+{
+	width:742px;
+    font-size: 16px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    color:#000;
+    border: solid 1px #000000;
+    margin:0;
+}
+ 
+#duyuru1 {
+    display: none;
+}
+#duyuru2 {
+    display: none;
+}
+#duyuru3 {
+    display: none;
+}
+#duyuru4 {
+    display: none;
+}
+#duyuru5 {
+    display: none;
+}
+.beyaz
+{
+	background-color:#fff;
+}

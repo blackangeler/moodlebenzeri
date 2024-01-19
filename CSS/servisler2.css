@@ -1,0 +1,71 @@
+
+a
+{
+	color:#000;
+	text-decoration:none;
+}
+body
+{
+	font-family:Calibri,Verdana,Geneva, sans-serif;
+	margin-top:50px;
+}
+.roundbaslik
+{
+  margin-top:15px;
+  text-align:left;
+  background:#035;
+  color:white;
+  padding:7px;
+  width: 750px;
+}
+#kutu1
+{
+	 background-color:#f9f9f9;
+	  width: 757px;
+      height:75px;
+      border: 1px solid #000;
+	  padding-top:15px;
+	  padding-left:5px;
+}
+#kutu2
+{
+	 background-color:#f9f9f9;
+	  width: 764px;
+      height:119px;
+
+
+}
+#dservis1 ,#dservis2,#dservis3
+{
+	width:742px;
+    font-size: 16px;
+    padding: 10px;
+    background-color: #fff;
+    color:#000;
+    border: solid 1px #000000;
+    margin:0;
+}
+.dservisac
+{
+	width:742px;
+    font-size: 16px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    color:#000;
+    border: solid 1px #000000;
+    margin:0;
+}
+ 
+#dservis1 {
+    display: none;
+}
+#dservis2 {
+    display: none;
+}
+#dservis3 {
+    display: none;
+}
+.cerceve
+{
+	     border: 1px solid #000;
+}
